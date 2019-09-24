@@ -59,7 +59,7 @@ Across each of your pages, your website must include the following.
 * Headings
    - At least 1 unique `h1` element.
    - At least 1 unique `h2` element.
-   - At least 1 more unique heading element (`h3`, `h4`, `h5` or `h6`). 
+   - At least 1 more unique heading element (`h3`, `h4`, `h5` or `h6`).
 * Paragraphs
    - At least 5 `p` elements.
 * Lists
