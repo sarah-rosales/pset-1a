@@ -59,7 +59,7 @@ Across each of your pages, your website must include the following.
 * Headings
    - At least 1 unique `h1` element.
    - At least 1 unique `h2` element.
-   - At least 1 more unique heading element (`h3`, `h4`, `h5` or `h6`).
+   - At least 1 more unique heading element (`h3`, `h4`, `h5` or `h6`). 
 * Paragraphs
    - At least 5 `p` elements.
 * Lists
@@ -82,9 +82,9 @@ It is your job to test your code. All images need to load. All links need to wor
 
 Please read very carefully. Historically, most students lose points on problem sets for simply failing to read the instructions and requirements.
 
-* September 23, 2019, at 11:59pm.
+* September 25, 2019, at 11:59pm.
 
-If you submit your problem set at midnight (i.e., September 24, 2019, at 12:00am), it is considered **late**!
+If you submit your problem set at midnight (i.e., September 26, 2019, at 12:00am), it is considered **late**!
 
 ### Submission Requirements
 
