@@ -1,6 +1,26 @@
 * {
     margin: 0;
-    padding: 0;
+    padding: 1;
+}
+p {
+  font-family: cursive;
+}
+body {
+    background-color: #b3cde0;
+    text-align: left;
+}
+a {
+    color: white;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-family: cursive;
+}
+h3 {
+  color: black;
+  text-align: center;
+  font-family: cursive;
 }
 .header {
     padding: 60px;
@@ -8,25 +28,57 @@
     background: #2e92db;
     color: white;
     font-size: 30px;
+    font-family: cursive;
 }
-h1, h3 {
+.topnav {
+      font-size: 25px;
+      text-align: center;
+      font-family: cursive;
+}
+.p-content {
+    color: black;
+    font-size: 23px;
+    font-family: cursive;
+}
+.footer {
+  padding: 30px;
+  text-align: center;
+  background: #011f4b ;
   color: white;
+  font-size: 30px;
+  font-family: cursive;
+}
+#list-content {
+  border: 2px solid #011f4b;
+  font-family: cursive;
+}
+#ol-content {
+  border: 2px solid #011f4b;
+  font-family: cursive;
+}
+#table-content {
+  border: 2px solid #011f4b;
+  font-family: cursive;
   text-align: center;
 }
-p {
-    color: black;
-    text-align: center;
+a[href="https://www.tumblr.com/login"] {
+  font-size: 30px;
 }
-
-body {
-    background-color: #b3cde0;
-    text-align: center;
-  }
-.topnav {
-      color: black;
-      font-size: 21px;
-      font-weight: bold;
-  }
-.section-content {
-    color: black;
-    font-size: 24px;
+a[href="https://www.shutterstock.com/photos"] {
+  font-size: 30px;
+}
+a[href="https://www.google.com/imghp?hl=en"] {
+  font-size: 30px;
+}
+a[href="https://www.pinterest.com/"] {
+  font-size: 30px;
+}
+a:hover {
+  color: gray;
+}
+ul li {
+    border: 0.5px solid black;
+}
+ol li {
+    border: 0.5px solid black;
+}
